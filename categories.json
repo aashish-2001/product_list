@@ -1,0 +1,50 @@
+    {
+      "id": 1,
+      "name": "Spices & Masalas",
+      "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "High-quality spices and masala blends for authentic flavors",
+      "productCount": 48
+    },
+    {
+      "id": 2,
+      "name": "Rice & Grains",
+      "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Premium quality rice and grains for everyday cooking",
+      "productCount": 32
+    },
+    {
+      "id": 3,
+      "name": "Pulses & Lentils",
+      "image": "https://images.unsplash.com/photo-1515543904379-3d757afe72ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Nutritious pulses and lentils for your daily meals",
+      "productCount": 27
+    },
+    {
+      "id": 4,
+      "name": "Oils & Ghee",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Pure cooking oils and traditional ghee for Indian cooking",
+      "productCount": 18
+    },
+    {
+      "id": 5,
+      "name": "Flours & Atta",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Fresh and finely ground flours for all your baking needs",
+      "productCount": 21
+    },
+    {
+      "id": 6,
+      "name": "Snacks & Sweets",
+      "image": "https://images.unsplash.com/photo-1619221855815-6c7e4b174459?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Delicious snacks and traditional Indian sweets",
+      "productCount": 39
+    },
+    {
+      "id": 7,
+      "name": "Grocery Items",
+      "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Essential grocery items for your pantry",
+      "productCount": 45
+    }
+  
