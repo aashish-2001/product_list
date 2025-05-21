@@ -1,0 +1,545 @@
+[
+  [
+    {
+      "id": 1,
+      "name": "Premium Basmati Rice",
+      "price": 599,
+      "images": [
+        "https://images.unsplash.com/photo-1594044948543-d4b01f5e1113?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.8,
+      "reviews": [
+        {
+          "id": 1,
+          "date": "2023-08-15",
+          "rating": 5,
+          "userId": 101,
+          "comment": "Best basmati rice I've ever tried. The grains remain separate after cooking.",
+          "userName": "Ravi Kumar"
+        },
+        {
+          "id": 2,
+          "date": "2023-09-02",
+          "rating": 4.5,
+          "userId": 102,
+          "comment": "Excellent quality rice, perfect for special occasions.",
+          "userName": "Priya Singh"
+        }
+      ],
+      "category": "Rice & Grains",
+      "featured": true,
+      "quantity": 5000,
+      "bestSeller": true,
+      "description": "Long-grain aromatic rice with a sweet flavor and fragrance. Perfect for biryanis and pulao.",
+      "discountedPrice": 499
+    },
+    {
+      "id": 2,
+      "name": "Organic Toor Dal",
+      "price": 180,
+      "images": [
+        "https://images.unsplash.com/photo-1612257093812-bbaac6d1e0dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.5,
+      "reviews": [
+        {
+          "id": 3,
+          "date": "2023-07-28",
+          "rating": 4.5,
+          "userId": 103,
+          "comment": "Cooks quickly and tastes great. Will buy again.",
+          "userName": "Amit Patel"
+        }
+      ],
+      "category": "Pulses & Lentils",
+      "featured": true,
+      "quantity": 1000,
+      "description": "Organic yellow split pigeon peas, a staple in Indian cuisine. High in protein and fiber.",
+      "discountedPrice": 150
+    },
+    {
+      "id": 3,
+      "name": "Garam Masala",
+      "price": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "id": 4,
+          "date": "2023-08-10",
+          "rating": 5,
+          "userId": 104,
+          "comment": "The aroma is fantastic! Makes my dishes taste authentic.",
+          "userName": "Neha Sharma"
+        },
+        {
+          "id": 5,
+          "date": "2023-09-05",
+          "rating": 4.7,
+          "userId": 105,
+          "comment": "Very fresh and flavorful. Great packaging too.",
+          "userName": "Vijay Mehta"
+        }
+      ],
+      "category": "Spices & Masalas",
+      "quantity": 250,
+      "bestSeller": true,
+      "description": "A blend of ground spices used in Indian cuisine. Adds aromatic flavor to curries and dishes.",
+      "discountedPrice": 99
+    },
+    {
+      "id": 4,
+      "name": "Pure Cow Ghee",
+      "price": 550,
+      "images": [
+        "https://images.unsplash.com/photo-1631980837325-97d877c6b717?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "id": 6,
+          "date": "2023-08-22",
+          "rating": 4.8,
+          "userId": 106,
+          "comment": "Pure and authentic taste. Love using it for all my cooking needs.",
+          "userName": "Anand Verma"
+        }
+      ],
+      "category": "Oils & Ghee",
+      "featured": true,
+      "quantity": 1000,
+      "description": "Traditional clarified butter made from pure cow's milk. Rich in flavor and aroma.",
+      "discountedPrice": 499
+    },
+    {
+      "id": 5,
+      "name": "Whole Wheat Atta",
+      "price": 250,
+      "images": [
+        "https://images.unsplash.com/photo-1600107363560-21783a3786c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.6,
+      "reviews": [
+        {
+          "id": 7,
+          "date": "2023-07-15",
+          "rating": 4.5,
+          "userId": 107,
+          "comment": "Makes soft rotis. Very satisfied with the quality.",
+          "userName": "Sneha Kapoor"
+        }
+      ],
+      "category": "Flours & Atta",
+      "quantity": 5000,
+      "bestSeller": true,
+      "description": "Finely ground whole wheat flour for making rotis, parathas, and other Indian breads.",
+      "discountedPrice": 225
+    },
+    {
+      "id": 6,
+      "new": true,
+      "name": "Jaggery Powder",
+      "price": 130,
+      "images": [
+        "https://images.unsplash.com/photo-1634138235932-bb665048c908?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.3,
+      "reviews": [
+        {
+          "id": 8,
+          "date": "2023-09-01",
+          "rating": 4.2,
+          "userId": 108,
+          "comment": "Good quality jaggery. Dissolves easily.",
+          "userName": "Rahul Gupta"
+        }
+      ],
+      "category": "Snacks & Sweets",
+      "quantity": 1000,
+      "description": "Unrefined sugar made from concentrated sugarcane juice. A healthier alternative to refined sugar."
+    },
+    {
+      "id": 7,
+      "name": "Red Chilli Powder",
+      "price": 95,
+      "images": [
+        "https://images.unsplash.com/photo-1637553354397-8a77a06f060b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "id": 9,
+          "date": "2023-08-17",
+          "rating": 4.8,
+          "userId": 109,
+          "comment": "Very spicy and vibrant in color. Exactly what I wanted.",
+          "userName": "Deepak Joshi"
+        }
+      ],
+      "category": "Spices & Masalas",
+      "featured": true,
+      "quantity": 500,
+      "description": "Finely ground dried red chillies. Adds heat and color to dishes.",
+      "discountedPrice": 85
+    },
+    {
+      "id": 8,
+      "new": true,
+      "name": "Moong Dal",
+      "price": 140,
+      "images": [
+        "https://images.unsplash.com/photo-1648199978276-51d3d6525653?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.5,
+      "reviews": [
+        {
+          "id": 10,
+          "date": "2023-09-07",
+          "rating": 4.5,
+          "userId": 110,
+          "comment": "Clean and cooks perfectly. Great for khichdi.",
+          "userName": "Asha Reddy"
+        }
+      ],
+      "category": "Pulses & Lentils",
+      "quantity": 1000,
+      "description": "Split green gram, a light and nutritious lentil that's easy to digest.",
+      "discountedPrice": 125
+    },
+    {
+      "id": 9,
+      "name": "Turmeric Powder",
+      "price": 85,
+      "images": [
+        "https://images.unsplash.com/photo-1615485500704-8e990f9900f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.6,
+      "reviews": [
+        {
+          "id": 11,
+          "date": "2023-08-05",
+          "rating": 4.6,
+          "userId": 111,
+          "comment": "High-quality turmeric. Vibrant color and great flavor.",
+          "userName": "Kiran Nair"
+        }
+      ],
+      "category": "Spices & Masalas",
+      "quantity": 250,
+      "bestSeller": true,
+      "description": "Ground dried turmeric root with a warm, bitter taste. Essential in Indian cooking."
+    },
+    {
+      "id": 10,
+      "new": true,
+      "name": "Mustard Oil",
+      "price": 180,
+      "images": [
+        "https://images.unsplash.com/photo-1637553321850-826ab28e1942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.4,
+      "reviews": [
+        {
+          "id": 12,
+          "date": "2023-07-30",
+          "rating": 4.4,
+          "userId": 112,
+          "comment": "Authentic mustard oil. Adds great flavor to pickles.",
+          "userName": "Sanjeev Roy"
+        }
+      ],
+      "category": "Oils & Ghee",
+      "quantity": 1000,
+      "description": "Cold-pressed mustard oil with a pungent aroma. Used in North Indian and Bengali cuisine.",
+      "discountedPrice": 160
+    },
+    {
+      "id": 11,
+      "name": "Besan Flour",
+      "price": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1514946379532-90281f815b3d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.5,
+      "reviews": [
+        {
+          "id": 13,
+          "date": "2023-08-12",
+          "rating": 4.5,
+          "userId": 113,
+          "comment": "Fine texture and makes crispy pakoras. Very happy with the purchase.",
+          "userName": "Meera Iyer"
+        }
+      ],
+      "category": "Flours & Atta",
+      "quantity": 1000,
+      "description": "Gram flour made from ground chickpeas. Used in making pakoras, sweets, and more.",
+      "discountedPrice": 110
+    },
+    {
+      "id": 12,
+      "name": "Soan Papdi",
+      "price": 250,
+      "images": [
+        "https://images.unsplash.com/photo-1661003943243-6a459738aa07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
+      ],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "id": 14,
+          "date": "2023-09-03",
+          "rating": 4.8,
+          "userId": 114,
+          "comment": "Melts in the mouth! Perfect sweetness.",
+          "userName": "Arjun Desai"
+        }
+      ],
+      "category": "Snacks & Sweets",
+      "featured": true,
+      "quantity": 500,
+      "description": "A popular Indian dessert with a flaky texture. Made with gram flour, sugar, and cardamom.",
+      "discountedPrice": 220
+    },
+    {
+      "id": 13,
+      "new": true,
+      "name": "Mixed Vegetable Pickle",
+      "price": 180,
+      "images": [
+        "https://images.unsplash.com/photo-1589135233689-8617c914b192?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "id": 15,
+          "date": "2023-09-05",
+          "rating": 4.7,
+          "userId": 115,
+          "comment": "Authentic taste, reminds me of homemade pickle.",
+          "userName": "Vikram Malhotra"
+        }
+      ],
+      "category": "Grocery Items",
+      "quantity": 400,
+      "description": "Traditional mixed vegetable pickle made with authentic spices and mustard oil.",
+      "discountedPrice": 160
+    },
+    {
+      "id": 14,
+      "name": "Tomato Ketchup",
+      "price": 110,
+      "images": [
+        "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.4,
+      "reviews": [
+        {
+          "id": 16,
+          "date": "2023-08-28",
+          "rating": 4.4,
+          "userId": 116,
+          "comment": "Great flavor, my kids love it!",
+          "userName": "Tanvi Mehta"
+        }
+      ],
+      "category": "Grocery Items",
+      "quantity": 500,
+      "description": "Rich, tangy tomato ketchup made from farm-fresh tomatoes with no artificial preservatives.",
+      "discountedPrice": 99
+    },
+    {
+      "id": 15,
+      "name": "Organic Honey",
+      "price": 350,
+      "images": [
+        "https://images.unsplash.com/photo-1587049352851-8d4e89133924?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.9,
+      "reviews": [
+        {
+          "id": 17,
+          "date": "2023-09-10",
+          "rating": 4.9,
+          "userId": 117,
+          "comment": "The best honey I've ever tasted. So pure and natural!",
+          "userName": "Amrita Singh"
+        }
+      ],
+      "category": "Grocery Items",
+      "featured": true,
+      "quantity": 300,
+      "description": "Pure, unprocessed honey collected from the foothills of the Himalayas.",
+      "discountedPrice": 320
+    },
+    {
+      "id": 16,
+      "name": "Coconut Oil",
+      "price": 280,
+      "images": [
+        "https://images.unsplash.com/photo-1626107411182-7672af5e0afe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.6,
+      "reviews": [
+        {
+          "id": 18,
+          "date": "2023-08-15",
+          "rating": 4.6,
+          "userId": 118,
+          "comment": "Great quality coconut oil. I use it for both cooking and hair.",
+          "userName": "Rohan Joshi"
+        }
+      ],
+      "category": "Oils & Ghee",
+      "quantity": 500,
+      "description": "Cold-pressed virgin coconut oil, perfect for cooking and hair care.",
+      "discountedPrice": 250
+    },
+    {
+      "id": 17,
+      "name": "Roasted Vermicelli",
+      "price": 75,
+      "images": [
+        "https://images.unsplash.com/photo-1627662168223-7df99068099a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.3,
+      "reviews": [
+        {
+          "id": 19,
+          "date": "2023-09-02",
+          "rating": 4.3,
+          "userId": 119,
+          "comment": "Makes delicious seviyan kheer. Good quality product.",
+          "userName": "Nisha Roy"
+        }
+      ],
+      "category": "Grocery Items",
+      "quantity": 1000,
+      "description": "Pre-roasted vermicelli for quick and easy preparation of desserts and savory dishes.",
+      "discountedPrice": 65
+    },
+    {
+      "id": 18,
+      "new": true,
+      "name": "Green Tea",
+      "price": 120,
+      "images": [
+        "https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.8,
+      "reviews": [
+        {
+          "id": 20,
+          "date": "2023-08-25",
+          "rating": 4.8,
+          "userId": 120,
+          "comment": "Refreshing taste and aroma. Perfect for my morning routine.",
+          "userName": "Aarav Khanna"
+        }
+      ],
+      "category": "Grocery Items",
+      "quantity": 250,
+      "description": "Pure green tea leaves from Darjeeling, rich in antioxidants and health benefits.",
+      "discountedPrice": 99
+    },
+    {
+      "id": 19,
+      "name": "Almond Milk",
+      "price": 190,
+      "images": [
+        "https://images.unsplash.com/photo-1620188526357-ff080cb6c5b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.5,
+      "reviews": [
+        {
+          "id": 21,
+          "date": "2023-09-08",
+          "rating": 4.5,
+          "userId": 121,
+          "comment": "Great alternative to dairy milk. Creamy and delicious.",
+          "userName": "Meera Kapoor"
+        }
+      ],
+      "category": "Grocery Items",
+      "quantity": 400,
+      "description": "Dairy-free almond milk, perfect for vegans and those with lactose intolerance.",
+      "discountedPrice": 175
+    },
+    {
+      "id": 20,
+      "name": "Peanut Butter",
+      "price": 220,
+      "images": [
+        "https://images.unsplash.com/photo-1590592964792-1d6c5d353c7f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80"
+      ],
+      "rating": 4.7,
+      "reviews": [
+        {
+          "id": 22,
+          "date": "2023-08-30",
+          "rating": 4.7,
+          "userId": 122,
+          "comment": "Absolutely delicious! My breakfast toast is incomplete without it.",
+          "userName": "Aryan Sharma"
+        }
+      ],
+      "category": "Grocery Items",
+      "featured": true,
+      "quantity": 350,
+      "description": "Creamy peanut butter made from roasted peanuts with no added sugar or preservatives.",
+      "discountedPrice": 199
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "name": "Spices & Masalas",
+      "image": "https://images.unsplash.com/photo-1532336414038-cf19250c5757?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "High-quality spices and masala blends for authentic flavors",
+      "productCount": 48
+    },
+    {
+      "id": 2,
+      "name": "Rice & Grains",
+      "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Premium quality rice and grains for everyday cooking",
+      "productCount": 32
+    },
+    {
+      "id": 3,
+      "name": "Pulses & Lentils",
+      "image": "https://images.unsplash.com/photo-1515543904379-3d757afe72ed?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Nutritious pulses and lentils for your daily meals",
+      "productCount": 27
+    },
+    {
+      "id": 4,
+      "name": "Oils & Ghee",
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Pure cooking oils and traditional ghee for Indian cooking",
+      "productCount": 18
+    },
+    {
+      "id": 5,
+      "name": "Flours & Atta",
+      "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Fresh and finely ground flours for all your baking needs",
+      "productCount": 21
+    },
+    {
+      "id": 6,
+      "name": "Snacks & Sweets",
+      "image": "https://images.unsplash.com/photo-1619221855815-6c7e4b174459?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Delicious snacks and traditional Indian sweets",
+      "productCount": 39
+    },
+    {
+      "id": 7,
+      "name": "Grocery Items",
+      "image": "https://images.unsplash.com/photo-1578916171728-46686eac8d58?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&q=80",
+      "description": "Essential grocery items for your pantry",
+      "productCount": 45
+    }
+  ]
+]
