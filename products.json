@@ -38,9 +38,9 @@
       "id": 2,
       "name": "Organic Toor Dal",
       "price": 180,
-      "images": [
+      "images": 
         "https://images.unsplash.com/photo-1612257093812-bbaac6d1e0dd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
-      ],
+      ,
       "rating": 4.5,
       "reviews": [
         {
@@ -62,9 +62,9 @@
       "id": 3,
       "name": "Garam Masala",
       "price": 120,
-      "images": [
+      "images": 
         "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
-      ],
+      ,
       "rating": 4.9,
       "reviews": [
         {
@@ -94,9 +94,9 @@
       "id": 4,
       "name": "Pure Cow Ghee",
       "price": 550,
-      "images": [
+      "images": 
         "https://images.unsplash.com/photo-1631980837325-97d877c6b717?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
-      ],
+      ,
       "rating": 4.7,
       "reviews": [
         {
@@ -118,9 +118,9 @@
       "id": 5,
       "name": "Whole Wheat Atta",
       "price": 250,
-      "images": [
+      "images": 
         "https://images.unsplash.com/photo-1600107363560-21783a3786c2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
-      ],
+      ,
       "rating": 4.6,
       "reviews": [
         {
@@ -143,9 +143,9 @@
       "new": true,
       "name": "Jaggery Powder",
       "price": 130,
-      "images": [
+      "images": 
         "https://images.unsplash.com/photo-1634138235932-bb665048c908?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
-      ],
+      ,
       "rating": 4.3,
       "reviews": [
         {
@@ -190,9 +190,9 @@
       "new": true,
       "name": "Moong Dal",
       "price": 140,
-      "images": [
+      "images": 
         "https://images.unsplash.com/photo-1648199978276-51d3d6525653?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
-      ],
+      ,
       "rating": 4.5,
       "reviews": [
         {
@@ -237,9 +237,9 @@
       "new": true,
       "name": "Mustard Oil",
       "price": 180,
-      "images": [
+      "images": 
         "https://images.unsplash.com/photo-1637553321850-826ab28e1942?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2340&q=80"
-      ],
+      ,
       "rating": 4.4,
       "reviews": [
         {
